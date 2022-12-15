@@ -13,8 +13,8 @@
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F?style=flat&logo=thymeleaf&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F?style=flat&logo=thymeleaf&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
-
+[![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-the-badge&logo=oracle)](https://github.com/dmstjd1024)
+[![Postgresql](https://img.shields.io/badge/Postgresql-4169E1.svg?&style=flat-the-badge&logo=postgresql&logoColor=white)](https://github.com/dmstjd1024)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstjd1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
