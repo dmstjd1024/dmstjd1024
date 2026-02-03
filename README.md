@@ -1,62 +1,48 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeon%20EunSeong&fontSize=60)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=dmstjd1024&show_icons=true)
-
-<h3 align="center"> Tech Stack</h3>
 <div align="center">
-<h4>Language</h4>
-  
-[![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/dmstjd1024)
 
-<h4>Framework</h4>
+# Jeon EunSeong
 
-[![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
+**Backend Developer**
 
-<h4> UI </h4>
+Java · Spring Boot · Cloud
 
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F?style=flat&logo=thymeleaf&link=https://github.com/dmstjd1024)](https://github.com/dmstjd1024)
-
-<h4> Database</h4>
-
-[![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-the-badge&logo=oracle)](https://github.com/dmstjd1024)
-[![Postgresql](https://img.shields.io/badge/Postgresql-4169E1.svg?&style=flat-the-badge&logo=postgresql&logoColor=white)](https://github.com/dmstjd1024)
-[![Mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-the-badge&logo=mysql&logoColor=white)](https://github.com/dmstjd1024)
-
-<h4> Tools</h4>
-
-[![Intellij](https://img.shields.io/badge/intellijidea-000000.svg?&style=flat-the-badge&logo=intellijidea&logoColor=white)](https://github.com/dmstjd1024)
-[![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-the-badge&logo=Slack&logoColor=white)](https://github.com/dmstjd1024)
-
-
-<h4> Infra </h4>
-
-[![AWS](https://img.shields.io/badge/amazon-FF9900.svg?&style=flat-the-badge&logo=amazon&logoColor=white)](https://github.com/dmstjd1024)
-
-<h4> Library </h4>
-
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-the-badge&logo=Selenium&logoColor=white)](https://github.com/dmstjd1024)
-[![Jasper_report](https://img.shields.io/badge/Jasper_report-EB001B.svg?&style=flat-the-badge&logo=Jasper_report&logoColor=white)](https://github.com/dmstjd1024)
+[![GitHub](https://img.shields.io/badge/GitHub-dmstjd1024-181717?style=flat-square&logo=github)](https://github.com/dmstjd1024)
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstjd1024&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!--
-**dmstjd1024/dmstjd1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
 
+**Backend** &nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-Here are some ideas to get you started:
+**Frontend** &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Database** &nbsp;&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Infra** &nbsp;&nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Tools** &nbsp;&nbsp; ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<!-- Profile Summary (github-profile-summary-cards) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmstjd1024&theme=default" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmstjd1024&theme=default" height="160" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmstjd1024&theme=default" height="160" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dmstjd1024&theme=default" height="160" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmstjd1024&theme=default&utcOffset=9" height="160" />
+
+<!-- Streak Stats (demolab 자체 서버) -->
+<img src="https://streak-stats.demolab.com/?user=dmstjd1024&theme=default&hide_border=true" width="60%" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=dmstjd1024&theme=flat&no-frame=true&column=6&margin-w=10" width="80%" />
+
+</div>
