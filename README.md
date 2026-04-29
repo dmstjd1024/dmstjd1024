@@ -20,6 +20,12 @@
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](https://github.com/dmstjd1024)
 [![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=jsp&logoColor=white)](https://github.com/dmstjd1024)
 
+**Database**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+
 **AI**
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)](https://www.anthropic.com/claude)
@@ -42,6 +48,8 @@
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://www.cursor.com)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://slack.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 
@@ -64,7 +72,23 @@ AI 로드맵을 따라 천천히 공부 중입니다. 아직 입문 단계라 �
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=dmstjd1024&show_icons=true&theme=default)](https://github.com/dmstjd1024)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmstjd1024&layout=compact)](https://github.com/dmstjd1024)
+<div align="center">
+
+<!-- Profile Summary (github-profile-summary-cards) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmstjd1024&theme=default" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmstjd1024&theme=default" height="160" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dmstjd1024&theme=default" height="160" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dmstjd1024&theme=default" height="160" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmstjd1024&theme=default&utcOffset=9" height="160" />
+
+<!-- Streak Stats (demolab 자체 서버) -->
+<img src="https://streak-stats.demolab.com/?user=dmstjd1024&theme=default&hide_border=true" width="60%" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=dmstjd1024&theme=flat&no-frame=true&column=6&margin-w=10" width="80%" />
+
+</div>
