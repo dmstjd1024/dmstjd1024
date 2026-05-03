@@ -13,22 +13,9 @@
 
 ## 👋 About Me
 
-```java
-public class JeonEunSeong {
-
-    String role     = "Backend Developer";
-    String focus    = "Spring Boot · Java · JPA";
-    String learning = "Python · PyTorch · RAG";
-    String also     = "Blockchain (Hyperledger Fabric · Ethereum)";
-    String goal     = "Build a RAG system from scratch";
-
-    String[] values = { "Clean Code", "Continuous Learning", "Problem Solving" };
-}
-```
-
-- 🔭 메인은 **백엔드 개발**, 블록체인 · AI도 꾸준히 탐구 중이에요
-- 🌱 요즘은 **Python · PyTorch** 로 AI 입문 중 — RAG 직접 만들어보는 게 목표
-- ⚡ 새로운 기술을 배울 때 직접 만들어보는 걸 좋아해요
+- 메인은 **백엔드 개발**, 블록체인 · AI도 꾸준히 탐구 중이에요
+- 요즘은 **Python · PyTorch** 로 AI 입문 중 — RAG 직접 만들어보는 게 목표
+- 새로운 기술을 배울 때 직접 만들어보는 걸 좋아해요
 
 ---
 
