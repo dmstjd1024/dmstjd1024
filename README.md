@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Jeon%20EunSeong&fontSize=60&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Blockchain+%7C+AI+Explorer+%F0%9F%94%97;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;AI+Explorer+%F0%9F%94%97;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 ![Visitor](https://komarev.com/ghpvc/?username=dmstjd1024&label=Profile+Views&color=6DB33F&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/dmstjd1024?label=Followers&style=flat&color=6DB33F)](https://github.com/dmstjd1024)
